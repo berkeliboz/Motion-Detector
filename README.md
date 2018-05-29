@@ -6,10 +6,10 @@ This application detects motion from video files and put the motion in a frame h
 
 ## ofApp.H
  Include the following header files: 
- • #include “ofMain.h" 
- • #include “ofxGui.h" 
- • #include “ofxOpenCv.h" 
- • #include “ofxCv.h" 
+ - #include “ofMain.h" 
+ - #include “ofxGui.h" 
+ - #include “ofxOpenCv.h" 
+ - #include “ofxCv.h" 
  Declare the relevant parameters inside ofApp class
 
 ## ofApp.cpp
