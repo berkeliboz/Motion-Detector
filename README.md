@@ -1,8 +1,8 @@
 ﻿# Motion Detector
 
-For this project, OpenGL and OpenCv libraries are used
+For this project, OpenGL and OpenCv libraries are used.
 
-This application detects motion from video files and put the motion in a frame highlight 
+This application detects motion from video files and puts the motion in a frame highlight.
 
 ## ofApp.H
  Include the following header files: 
